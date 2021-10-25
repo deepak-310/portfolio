@@ -17,7 +17,7 @@ function body() {
             <section id="project">
                 <Projects/>
             </section>
-            <section id="Skills">
+            <section id="skills">
                 <Skills/>
             </section>
             <section id="work">
