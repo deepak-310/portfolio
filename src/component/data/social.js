@@ -1,0 +1,27 @@
+export const SocialData=[
+    {
+        platform:"Insatagram",
+        link:"https://www.instagram.com/deepak._310/",
+        icon:require('../../asscits/instagram.png').default,
+    },
+    {
+        platform:"Twitter",
+        link:"https://twitter.com/DeepakC61098545",
+        icon:require('../../asscits/twitter.png').default,
+    },
+    {
+        platform:"Github",
+        link:"https://github.com/deepak-310",
+        icon:require('../../asscits/github.png').default,
+    },
+    {
+        platform:"Linkedin",
+        link:"https://www.linkedin.com/in/deepak-chouhan-a12ab11bb/",
+        icon:require('../../asscits/linkedin.png').default,
+    },
+    {
+        platform:"Discord",
+        link:"https://discord.com/channels/@me",
+        icon:require('../../asscits/discord.png').default,
+    },
+]

@@ -1,0 +1,50 @@
+.work_card {
+  padding: 8px;
+  width: 45%;
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+.work_logo {
+  height: 60px;
+}
+.work_info {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.work_datas {
+  color: gray;
+}
+.work_dis {
+  text-align: left;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.company_name{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+@media only screen and (max-width:720px){
+   .work_card{
+       width: 100%;
+   }
+   .work_logo {
+    height: 50px;
+  }
+  }
+  
+  @media only screen and (max-width:340px){
+    .work_card{
+        width: 100%;
+    }
+    .work_logo {
+        height: 40px;
+      }
+  }
