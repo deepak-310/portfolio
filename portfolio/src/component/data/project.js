@@ -22,6 +22,7 @@ export const ProjectData=[
         title:"Flipkart Clone",
         about:"In this project I created a flipkart Clone using React and node.js I use MongoBD Data base First page with navbar",
         tags:["Reactjs","Nodejs","MongoBD","HTML","CSS","JavaScript"],
+        demo:"https://flipkart-clone-one.vercel.app/",
         github:"https://github.com/deepak-310/Flipkart-Clone",
         image:"https://user-images.githubusercontent.com/90319891/138120156-65eb2596-8910-4dbf-8ca0-1cbdb797ed46.png",
     },
