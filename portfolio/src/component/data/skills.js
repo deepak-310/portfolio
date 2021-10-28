@@ -18,6 +18,10 @@ export const SkillsData = [
         name: "Node JS",
         icon: <i class="devicon-nodejs-plain colored"></i>,
       },
+      {
+        name: "Photoshop",
+        icon: <i class="devicon-photoshop-plain colored"></i>,
+      },
     ],
   },
   {

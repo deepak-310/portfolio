@@ -26,4 +26,13 @@ export const ProjectData=[
         github:"https://github.com/deepak-310/Flipkart-Clone",
         image:"https://user-images.githubusercontent.com/90319891/138120156-65eb2596-8910-4dbf-8ca0-1cbdb797ed46.png",
     },
+    {
+        id:4,
+        title:"Realme Clone",
+        about:"In this project I created a flipkart FrontEnd Part of realme website",
+        tags:["HTML","CSS","JavaScript"],
+        demo:"https://realme-clone.vercel.app/",
+        github:"https://github.com/deepak-310/realme-clone",
+        image:"https://user-images.githubusercontent.com/90319891/139109184-31ab079a-f855-41b9-999f-0eecfed2769c.png",
+    },
 ]
