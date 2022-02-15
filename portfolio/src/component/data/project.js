@@ -35,4 +35,15 @@ export const ProjectData=[
         github:"https://github.com/deepak-310/realme-clone",
         image:"https://user-images.githubusercontent.com/90319891/139109184-31ab079a-f855-41b9-999f-0eecfed2769c.png",
     },
+    {
+        id:5,
+        title:"NFT_Website",
+        about:"This is my NFT Collections website",
+        tags:["Reactjs","HTML","CSS","JavaScript"],
+        demo:"",
+        github:"https://github.com/deepak-310/NFT_Web",
+        image:"https://user-images.githubusercontent.com/90319891/154086430-5c8b5bf7-8972-4987-a28b-bada2d00cb0b.png"
+
+
+    }
 ]
