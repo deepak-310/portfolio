@@ -13,7 +13,7 @@ export const ProjectData=[
         title:"Netflix Clone",
         about:"I made this netflix clone using HTML , CSS and Javascript. The page is little bet of responsive for PC and Tablet devices",
         tags:["HTML","CSS","JavaScript"],
-        demo:"https://netflix-clone-sigma-jade.vercel.app/",
+        demo:"https://netflix-clone-five-iota.vercel.app/",
         github:"https://github.com/deepak-310/Netflix-Clone",
         image:"https://user-images.githubusercontent.com/90319891/138590279-6f176684-8afb-4c34-b1e1-a0664930972d.png",
     },
@@ -45,5 +45,14 @@ export const ProjectData=[
         image:"https://user-images.githubusercontent.com/90319891/154086430-5c8b5bf7-8972-4987-a28b-bada2d00cb0b.png"
 
 
+    },
+    {
+        id:6,
+        title:"Cogent",
+        about:"Websit on Cogent online learning website",
+        tags:["HTML","CSS","JavaScript"],
+        demo:"https://cogent-web-q7xmy6s7s-blazedboy310-gmailcom.vercel.app/",
+        github:"https://github.com/deepak-310/cogent_web",
+        image:"https://user-images.githubusercontent.com/90319891/156007659-3aed31ca-f6c3-498a-ba81-c3cc41728ff7.png"
     }
 ]
