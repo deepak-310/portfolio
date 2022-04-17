@@ -59,7 +59,7 @@ export const ProjectData=[
         id:7,
         title:"Opensea Clone",
         about:"Opensea clone using blockchain and web3.0 with metamask wallet connection and thirdweb",
-        tags:["React.js","Next.js","Tailwind css","Blockchain"],
+        tags:["React.js","Next.js","Tailwind css","Sanity Database"],
         demo:"https://opensea-blockchain-clone-ten.vercel.app/",
         github:"https://github.com/deepak-310/opensea-blockchain-clone",
         image:"https://user-images.githubusercontent.com/90319891/163708541-6eb2d343-7740-48ec-b1fc-71c29cd520dd.png"
