@@ -54,5 +54,14 @@ export const ProjectData=[
         demo:"https://cogent-web-q7xmy6s7s-blazedboy310-gmailcom.vercel.app/",
         github:"https://github.com/deepak-310/cogent_web",
         image:"https://user-images.githubusercontent.com/90319891/156007659-3aed31ca-f6c3-498a-ba81-c3cc41728ff7.png"
+    },
+    {
+        id:7,
+        title:"Opensea Clone",
+        about:"Opensea clone using blockchain and web3.0 with metamask wallet connection and thirdweb",
+        tags:["React.js","Next.js","Tailwind css","Blockchain"],
+        demo:"https://opensea-blockchain-clone-ten.vercel.app/",
+        github:"https://github.com/deepak-310/opensea-blockchain-clone",
+        image:"https://user-images.githubusercontent.com/90319891/163708541-6eb2d343-7740-48ec-b1fc-71c29cd520dd.png"
     }
 ]
