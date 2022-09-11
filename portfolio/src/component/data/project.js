@@ -6,7 +6,7 @@ export const ProjectData=[
         tags:["HTML","CSS","JavaScript","PHP"],
         demo:"http://foodiefood.epizy.com/index.html",
         github:"https://github.com/deepak-310/FoodieFood",
-        image:"https://user-images.githubusercontent.com/90319891/189517161-3a89207d-bac2-412c-a555-ef500ffb1d46.png",
+        image:"https://user-images.githubusercontent.com/90319891/189517058-73e648f8-1843-42d1-8139-dc6403c0df75.png",
 
     },
     {
