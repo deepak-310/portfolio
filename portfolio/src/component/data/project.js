@@ -1,5 +1,15 @@
 export const ProjectData=[
     {
+        id:0,
+        title:"Food Ordering Website",
+        about:"This website I made for my college canteen where Student with college email id can login and order the food with 2 option class delivery and pickup",
+        tags:["HTML","CSS","JavaScript","PHP"],
+        demo:"http://foodiefood.epizy.com/index.html",
+        github:"https://github.com/deepak-310/FoodieFood",
+        image:"https://user-images.githubusercontent.com/90319891/189517161-3a89207d-bac2-412c-a555-ef500ffb1d46.png",
+
+    },
+    {
         id:1,
         title:"Travling Website",
         about:"This is one of my favorites project which I made it's basically traveling website which I made using HTML CSS Javascript and PHP the enter user data stored in you mysql",
