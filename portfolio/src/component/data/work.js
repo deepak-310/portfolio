@@ -5,7 +5,7 @@ export const WorkData=[
         designation:"Software Development",
         doj:"Sep 2022",
         dol:"Present",
-        companyLogo:"https://media-exp1.licdn.com/dms/image/C4D0BAQFCMe9SKzbj7Q/company-logo_200_200/0/1658827046667?e=1676505600&v=beta&t=JkI_sf81vgteaa09GjmOox-yddCvxf3rFXzwg_jZ4Wk",
+        companyLogo:require('../../asscits/grizla.jpg').default,
         work:"Work as a Web developer.I am a group leader in frontend team. Learn how to work in a group and lead a group ",
     },
     {
