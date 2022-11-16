@@ -11,7 +11,7 @@ export const ProjectData=[
     },
     {
         id:2,
-        title:"Travling Website",
+        title:"Traveling Website",
         about:"This is one of my favorites project which I made it's basically traveling website which I made using HTML CSS Javascript and PHP the enter user data stored in you mysql",
         tags:["HTML","CSS","JavaScript","PHP"],
         demo:"https://travel-with-us-bice.vercel.app/",
