@@ -1,6 +1,17 @@
 export const ProjectData=[
     {
         id:1,
+        title:"Lyriks ",
+        about:"Music Web Application which shows Top tranding Song and song which are playing around you",
+        tags:["ReactJS","Tailwind,","Redux","RapidAPI"],
+        demo:"https://lyriks-two.vercel.app/",
+        github:"https://github.com/deepak-310/Lyriks",
+        image:"https://user-images.githubusercontent.com/90319891/204288916-e62200b2-2087-45c7-903a-52a19e65ae75.png",
+
+    },
+
+    {
+        id:2,
         title:"Food Ordering Website",
         about:"This website I made for my college canteen where Student with college email id can login and order the food with 2 option class delivery and pickup",
         tags:["HTML","CSS","JavaScript","PHP"],
@@ -10,7 +21,7 @@ export const ProjectData=[
 
     },
     {
-        id:2,
+        id:3,
         title:"Traveling Website",
         about:"This is one of my favorites project which I made it's basically traveling website which I made using HTML CSS Javascript and PHP the enter user data stored in you mysql",
         tags:["HTML","CSS","JavaScript","PHP"],
@@ -19,7 +30,7 @@ export const ProjectData=[
         image:"https://user-images.githubusercontent.com/90319891/134942571-b5548c30-4be6-4734-bcc6-5d4319335f48.png",
     },
     {
-        id:3,
+        id:4,
         title:"Netflix Clone",
         about:"I made this netflix clone using HTML , CSS and Javascript. The page is little bet of responsive for PC and Tablet devices",
         tags:["HTML","CSS","JavaScript"],
@@ -28,7 +39,7 @@ export const ProjectData=[
         image:"https://user-images.githubusercontent.com/90319891/138590279-6f176684-8afb-4c34-b1e1-a0664930972d.png",
     },
     {
-        id:4,
+        id:5,
         title:"Flipkart Clone",
         about:"In this project I created a flipkart Clone using React and node.js I use MongoBD Data base First page with navbar",
         tags:["Reactjs","Nodejs","MongoBD","HTML","CSS","JavaScript"],
@@ -37,7 +48,7 @@ export const ProjectData=[
         image:"https://user-images.githubusercontent.com/90319891/138120156-65eb2596-8910-4dbf-8ca0-1cbdb797ed46.png",
     },
     {
-        id:5,
+        id:6,
         title:"Realme Clone",
         about:"In this project I created a flipkart FrontEnd Part of realme website",
         tags:["HTML","CSS","JavaScript"],
@@ -46,7 +57,7 @@ export const ProjectData=[
         image:"https://user-images.githubusercontent.com/90319891/139109184-31ab079a-f855-41b9-999f-0eecfed2769c.png",
     },
     {
-        id:6,
+        id:7,
         title:"NFT_Website",
         about:"This is my NFT Collections website",
         tags:["Reactjs","HTML","CSS","JavaScript"],
@@ -57,7 +68,7 @@ export const ProjectData=[
 
     },
     {
-        id:7,
+        id:8,
         title:"Cogent",
         about:"Websit on Cogent online learning website",
         tags:["HTML","CSS","JavaScript"],
@@ -66,7 +77,7 @@ export const ProjectData=[
         image:"https://user-images.githubusercontent.com/90319891/156007659-3aed31ca-f6c3-498a-ba81-c3cc41728ff7.png"
     },
     {
-        id:8,
+        id:9,
         title:"Opensea Clone",
         about:"Opensea clone using blockchain and web3.0 with metamask wallet connection and thirdweb",
         tags:["React.js","Next.js","Tailwind css","Sanity Database"],
