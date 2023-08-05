@@ -2,7 +2,7 @@ import React from "react";
 import "./projectcard.css";
 
 function ProjectCard({ project }) {
-  return (
+  return (  
     <div className="project_card">
       <div className="project_info">
         <label className="project_title">{project.title}</label>

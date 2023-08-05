@@ -2,7 +2,7 @@ export const ProjectData=[
     {
         id:1,
         title:"Lyriks ",
-        about:"Music Web Application which shows Top tranding Song and song which are playing around you",
+        about:"Music Web Application which shows Top tranding Song and song which are playing around you.based on the location you yours",
         tags:["ReactJS","Tailwind,","Redux","RapidAPI"],
         demo:"https://lyriks-two.vercel.app/",
         github:"https://github.com/deepak-310/Lyriks",
@@ -22,8 +22,8 @@ export const ProjectData=[
     },
     {
         id:3,
-        title:"Traveling Website",
-        about:"This is one of my favorites project which I made it's basically traveling website which I made using HTML CSS Javascript and PHP the enter user data stored in you mysql",
+        title:"Traveling website",
+        about:"Complete end-to-end responsive website where you can view various plans, choose any plan, and book it.",
         tags:["HTML","CSS","JavaScript","PHP"],
         demo:"https://travel-with-us-bice.vercel.app/",
         github:"https://github.com/deepak-310/YATRA",
