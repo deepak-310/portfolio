@@ -32,7 +32,7 @@ export const ProjectData=[
     {
         id:4,
         title:"Netflix Clone",
-        about:"I made this netflix clone using HTML , CSS and Javascript. The page is little bet of responsive for PC and Tablet devices",
+        about:"I made this netflix clone using HTML , CSS and Javascript. The page is little bit of responsive for PC and Tablet devices",
         tags:["HTML","CSS","JavaScript"],
         demo:"https://netflix-clone-five-iota.vercel.app/",
         github:"https://github.com/deepak-310/Netflix-Clone",
